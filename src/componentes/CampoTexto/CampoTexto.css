@@ -1,0 +1,46 @@
+.campo-texto {
+    margin: 24px 0;
+}
+
+.campo-texto label {
+    display: block;
+    margin-bottom: 8px;
+    font-size: 20px;
+}
+
+.campo-texto input {
+    background-color: #191919;
+    width: 100%;
+    color: rgba(165, 165, 165, 1);
+    font-size: 20px;
+    padding: 16px;
+    box-sizing: border-box;
+    border: 3px solid #262626;
+    border-radius: 10px;
+    outline: none;
+}.campo-texto {
+    margin: 24px 0;
+}
+
+.campo-texto label {
+    display: block;
+    margin-bottom: 8px;
+    font-size: 24px;
+}
+
+.campo-texto input {
+    background-color: #FFF;
+    box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.06);
+    width: 100%;
+    border: none;
+    font-size: 24px;
+    padding: 24px;
+    box-sizing: border-box;
+}
+
+.campo-texto::placeholder {
+    color: rgba(165, 165, 165, 1);
+}
+.campo-texto:required {
+    border: 3px solid #E53935;
+}

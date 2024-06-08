@@ -1,0 +1,14 @@
+.rodape {
+    background-color: #000;
+    box-sizing: border-box;
+    height: 125px;
+    box-shadow: 0px 5px 29px 0px rgba(34, 113, 209, 0.7);
+    border-top: 4px solid var(--Blue, rgba(34, 113, 209, 1));
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.rodape img {
+    height: 40px;
+}
