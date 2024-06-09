@@ -5,26 +5,6 @@
 .campo-texto label {
     display: block;
     margin-bottom: 8px;
-    font-size: 20px;
-}
-
-.campo-texto input {
-    background-color: #191919;
-    width: 100%;
-    color: rgba(165, 165, 165, 1);
-    font-size: 20px;
-    padding: 16px;
-    box-sizing: border-box;
-    border: 3px solid #262626;
-    border-radius: 10px;
-    outline: none;
-}.campo-texto {
-    margin: 24px 0;
-}
-
-.campo-texto label {
-    display: block;
-    margin-bottom: 8px;
     font-size: 24px;
 }
 
